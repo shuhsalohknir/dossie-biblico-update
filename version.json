@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "apkUrl": "https://SEU_LINK_PUBLICO/dossie-biblico.apk",
-  "mensagem": "Versão inicial do Dossiê Bíblico."
+  "version": "1.1.0",
+  "apkUrl": "https://github.com/shuhsalohknir/dossie-biblico-update/releases/download/V1.1.0/dossie.apk",
+  "mensagem": "Nova versão com aba Doar e correções."
 }
